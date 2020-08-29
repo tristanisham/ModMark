@@ -1,7 +1,5 @@
 # ModMark
-## A work in progress
-
-Markup language that promotes easy source attribution, variables, templates, and full static site/web publishing capabilities
+## A work in progress markup language that promotes easy source attribution, variables, templates, and full static site/web publishing capabilities
 
 ModMark is a heavily opinionated markup language inspired by John Gruber's Markdown. Created to streamline complex document and blog post creation, ModMark features templates, variables, and and macros to make creating common elements and tag layouts found in HTML a breeze. ModMark exports to HTML5, using CSS3 and little to no JavaScript so your sites stay light, beginner friendly, and highly customizable. ModMark can be used as either a complete site markup language, or as a step in your site's creation process. The end goal for this project is to allow ModMark to become easily-intigratable serverside or in static site generators. 
 
