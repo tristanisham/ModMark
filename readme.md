@@ -10,7 +10,8 @@ Much of ModMark’s syntax is borrowed from Markdown. If you’re already famili
 If you are unfamiliar with Markdown, you can learn it quickly at https://commonmark.org. 
 
 ## Unique Syntax
-### Variables 
+### WiP
+<!-- ### Variables 
 Are you ever writing a story and after 2,000 words realize that you’ve been misspelling your main source’s employer? Have you ever published a post only to realize that you mistyped a name in one or two places?
 
 Sure, these errors could be fixed through keyboard shortcuts and manual labor, but ctrl+f is notoriously finicky, and nobody wants to have to crawl through even more text right before their deadline. That’s where ModMark’s variable system comes in. 
@@ -33,4 +34,4 @@ A working example of this could look like:
 
 //—Snip—
 
-My source, <{name}/> is a great grandmother!
+My source, <{name}/> is a great grandmother! -->
