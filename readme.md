@@ -54,6 +54,12 @@ $ cargo build
 
 It's highly reccomended that if you're interested in developing on top of ModMark, or if you want the most up-to-date version of the binary, that you familiarize yourself with Cargo. You can learn more about Cargo here: https://doc.rust-lang.org/book/ch01-03-hello-cargo.html. This is not a beginner friendly method of running the application, and I am currently looking for additional solutions to make ModMark as easy as possible to use, including a front-end and web server intigration to make using the project as easy as possible for as many people as possible.
 
+# Run
+```
+$ ./modmark input.md output.html
+```
+The program will output your modmark into html at your home directory unless you specify a path for output.
+
 # Suggestions and Issues
 All code issues should be called out using GitHub's built in Issues feature. Suggestions, feedback, or anything fun you just want to share should be shared with me on Telegram: https://t.me/TristanIsham.
 
