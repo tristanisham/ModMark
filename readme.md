@@ -32,7 +32,7 @@ If you're not interested in compiling the binary or development, you can get it 
 After downloading the binary, move it to your home directory like so:
 ```
 $ mv ~/Downloads/modmark ~/modmark
-$ cd
+$ cd ~
 ```
 Then, make it an executable.
 ```
