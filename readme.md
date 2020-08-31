@@ -27,7 +27,7 @@ Eventually, I'd like to grow ModMark into a more complete suite of web solutions
 
 # Install or Compile
 ## Install
-If you're not interested in compiling the binary or development, you can get it directly [here](https://drive.google.com/file/d/13AnHSq_qWK5Y6DSKRHIPEm_lCoxOIF-k/view?usp=sharing)(Google Drive) or through Cargo (*working on it*).
+If you're not interested in compiling the binary or development, you can get it directly [here](https://drive.google.com/file/d/14WBnhxSWnE9uqZJ-3Fg13e3Kh-Zzw08Z/view?usp=sharing)(Google Drive) or through Cargo (*working on it*).
 
 After downloading the binary, move it to your home directory like so:
 ```
