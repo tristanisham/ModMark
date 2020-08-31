@@ -56,7 +56,15 @@ It's highly reccomended that if you're interested in developing on top of ModMar
 ```
 $ ./modmark input.md output.html
 ```
-The program will output your modmark into html at your home directory unless you specify a path for output.
+The program will output your modmark into html at your home directory unless you specify a path for output, so:
+```markdown
+//readme.md
+# This is a title
+```
+becomes:
+```html
+<h1>This is a title</h1>
+```
 
 # Suggestions and Issues
 All code issues should be called out using GitHub's built in Issues feature. Suggestions, feedback, or anything fun you just want to share should be shared with me on Telegram: https://t.me/TristanIsham.
