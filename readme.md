@@ -38,8 +38,6 @@ Then, make it an executable.
 ```
 $ chmod +x modmark
 ```
-Then just run the app:
-`$ ./modmark`
 
 ## Compile
 Modmark is built soley in Rust, and thusly requires the Rust Language and Cargo installed on your machine. You can fully install the langauge, Cargo, and the entire rust toolchain by installing rustup. 
