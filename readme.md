@@ -44,7 +44,7 @@ Modmark is built soley in Rust, and thusly requires the Rust Language and Cargo 
 
 Please follow the guide at https://www.rust-lang.org/tools/install if you are unfamiliar with Rust.
 
-After downloading the Rust toolchain, `$cd` into the ModMark directory (assuming you've cloned the repo from GitHub) and run the following:
+After downloading the Rust toolchain, `$ cd` into the ModMark directory (assuming you've cloned the repo from GitHub) and run the following:
 
 ```
 $ cargo build
