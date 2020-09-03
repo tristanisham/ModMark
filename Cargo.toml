@@ -1,8 +1,10 @@
 [package]
 name = "modmark"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Tristan Isham <tristan@isham.co>"]
 edition = "2018"
+repository = "https://github.com/tristanisham/ModMark"
+description = "A markup language for productive people."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
