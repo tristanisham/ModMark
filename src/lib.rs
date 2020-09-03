@@ -47,7 +47,7 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
 }
 
 
-
+// MD converter
 pub fn md_to_html<'a>(input_file: &'a str) -> String {
     let mut options = Options::empty();
     options.insert(Options::ENABLE_STRIKETHROUGH);
@@ -59,7 +59,7 @@ pub fn md_to_html<'a>(input_file: &'a str) -> String {
     html_output
 }
 
-
+// Writes converted MD to output
 pub fn writer(input: &String, output: String,) -> std::io::Result<()> {
     let mut file = File::create(output)?;
     let content = input.as_bytes();
