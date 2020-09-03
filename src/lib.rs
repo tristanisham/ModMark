@@ -77,7 +77,6 @@ mod tests {
     use super::*;
 
     #[test]
-    
     fn to_str_and_back() {
             let input_file = "Hello world, this is a ~~complicated~~ *very simple* example.";
 
@@ -98,5 +97,6 @@ mod tests {
             println!("{:?}", results);
         
     }
+    
 
 }
